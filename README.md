@@ -385,13 +385,6 @@ Special thanks to these amazing projects and teams:
 
 </div>
 
-<!-- Footer -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=120&section=footer&text=Build%20Something%20Amazing%20Today!&fontSize=24&fontAlignY=70&animation=twinkling" alt="footer"/>
-</div>
-
 <div align="center">
   <b><a href="#-ai-powered-website-builder">⬆ Back to Top</a></b>
   
