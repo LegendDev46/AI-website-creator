@@ -12,10 +12,6 @@
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License MIT">
   </a>
-  <img src="https://img.shields.io/github/last-commit/Ratna-Babu/ai-website-builder" alt="Last Commit">
-  <img src="https://img.shields.io/github/languages/top/Ratna-Babu/ai-website-builder" alt="Top Language">
-  <img src="https://img.shields.io/github/languages/count/Ratna-Babu/ai-website-builder" alt="Languages">
-  <img src="https://img.shields.io/github/repo-size/Ratna-Babu/ai-website-builder" alt="Repo Size">
 </p>
 
 
@@ -156,7 +152,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ratna-Babu/ai-website-builder.git
+[git clone https://github.com/Ratna-Babu/ai-website-builder.git](https://github.com/LegendDev46/AI-website-creator.git)
 
 # Navigate to project directory
 cd ai-website-builder
@@ -311,9 +307,6 @@ features grid, and pricing cards"
 
 <div align="center">
 
-### 🚀 Deploy to Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Ratna-Babu/ai-website-builder)
 
 ### 🔧 Environment Variables Required
 
@@ -353,31 +346,6 @@ gitGraph
     commit id: "Merged! 🎉"
 ```
 
-### 👥 Contributors
-
-<a href="https://github.com/Ratna-Babu/ai-website-builder/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ratna-Babu/ai-website-builder"/>
-</a>
-
-</div>
-
-
-<!-- Support -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2e0051b6-726f-442f-8025-88936b87ce07" width="35">
-  Support & Community
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2e0051b6-726f-442f-8025-88936b87ce07" width="35">
-</h2>
-
-<div align="center">
-
-### 💬 Get Help
-
-[![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github)](https://github.com/Ratna-Babu/ai-website-builder/discussions)
-[![Issues](https://img.shields.io/badge/Issues-Report_Bug-red?style=for-the-badge&logo=github)](https://github.com/Ratna-Babu/ai-website-builder/issues)
-
 ### ⭐ Show Your Support
 
 <table>
@@ -385,8 +353,6 @@ gitGraph
 <td align="center">
 
 Give a ⭐ if this project helped you!
-
-[![GitHub stars](https://img.shields.io/github/stars/Ratna-Babu/ai-website-builder?style=social)](https://github.com/Ratna-Babu/ai-website-builder)
 
 </td>
 
@@ -428,8 +394,6 @@ Special thanks to these amazing projects and teams:
 
 <div align="center">
   <b><a href="#-ai-powered-website-builder">⬆ Back to Top</a></b>
-  
-  <sub>Made with ❤️ by [Ratna Babu](https://github.com/Ratna-Babu) and contributors</sub>
   
 </div>
 
