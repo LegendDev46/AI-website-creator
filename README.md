@@ -152,7 +152,7 @@
 
 ```bash
 # Clone the repository
-[git clone https://github.com/Ratna-Babu/ai-website-builder.git](https://github.com/LegendDev46/AI-website-creator.git)
+git clone https://github.com/LegendDev46/AI-website-creator.git
 
 # Navigate to project directory
 cd ai-website-builder
